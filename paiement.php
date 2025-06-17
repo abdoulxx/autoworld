@@ -35,7 +35,7 @@ try {
     }
 
     // Configuration KkiaPay
-    $public_key = '6d0d9ef01e0e11f0b28afb2ba2f61f55';
+    $public_key = 'ton api key ici';
     $success_url = 'http://' . $_SERVER['HTTP_HOST'] . '/autoworld/paiement-success.php';
     $cancel_url = 'http://' . $_SERVER['HTTP_HOST'] . '/autoworld/paiement-cancel.php';
     
